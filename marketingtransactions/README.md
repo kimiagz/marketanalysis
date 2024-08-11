@@ -4,7 +4,13 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-This project involves a comprehensive analysis of an online retail transaction dataset from Kaggle.
+This project involves a comprehensive analysis of an online retail transaction dataset from Kaggle. The key steps and methodologies include:
+
+Data Processing: Cleaning and preparing the dataset for analysis.
+RFM Analysis: Evaluating customer value based on Recency, Frequency, and Monetary metrics.
+Outlier Detection: Implementing the Isolation Forest algorithm to identify and handle outliers.
+Customer Segmentation: Using RFM and K-Means clustering to segment customers into distinct groups.
+Basket Analysis: Applying the FP-Growth algorithm to uncover frequent itemsets and association rules.
 
 ## Project Organization
 
